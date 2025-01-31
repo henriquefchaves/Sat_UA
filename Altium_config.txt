@@ -1,0 +1,10 @@
+
+
+• Username: nunosilva@av.it.pt
+• Password: el?c(m85
+
+Servidor licenças:
+
+hostname: licenses.av.it.pt
+
+port: 21001
