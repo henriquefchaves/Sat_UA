@@ -1,0 +1,36 @@
+Added Component: Designator=C1(0603)
+Added Component: Designator=C2(0603)
+Add Component: Footprint Not Found Header 2.54mm 2Pos 1Row
+Add Component: Footprint Not Found Header 2.54mm 2Pos 1Row
+Added Component: Designator=U4(TORX-SOT-25-5_L)
+Add component (AddParameter): Name = "Accuracy"; Value = "+/- 1% (Vout>2.0 V) +/- 0.02 V (Vout<=2.0 V)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.torex.co.jp/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.torex.co.jp/english/products/voltage_regulators/data/XC6222.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "120 mV @Iout=300 mA (Vout=3.0 V)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Power Consumption"; Value = "100 uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Torex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Ambient Temperature"; Value = "-40 to 85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage Range"; Value = "1.7 to 6 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Out Current (Max)"; Value = "700 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "0.8 to 5 V (0.05 V increments)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Small Out-Line Transistor, Body 2.9 x 1.6 mm, Pitch 0.95 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MR-G-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "XC6222B331MR-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+BAT Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C2-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Added Pin To Net: NetName=+BAT Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=+BAT Pin=U4-3
+Added Pin To Net: NetName=+3V3 Pin=U4-5

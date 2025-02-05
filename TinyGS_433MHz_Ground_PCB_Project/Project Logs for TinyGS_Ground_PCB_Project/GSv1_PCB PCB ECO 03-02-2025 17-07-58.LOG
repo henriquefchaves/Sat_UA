@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=C1 Old DesignItemId=CAP - SMD_0603(inch) New DesignItemId=CAP - SMD_0805(inch)
+Change Component DesignItemId : Designator=C2 Old DesignItemId=CAP - SMD_0603(inch) New DesignItemId=CAP - SMD_0805(inch)
+Change Component Footprint: Designator=C1 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C2 Old Footprint=0603 New Footprint=0805

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=+BAT Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=+BAT Pin=U1-3
+Removed Pin From Net: NetName=+3V3 Pin=U1-5
+Change Footprint: Footprint Not Found 1206
+Change Component Comment : Designator=C1 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C2 Old Comment=2.2uF New Comment=22uF
+Added Component: Designator=C5(0603)
+Add Component: Footprint Not Found MSOP-10
+Add Component: Footprint Not Found Header 2.54mm 2Pos 1Row
+Add Component: Footprint Not Found CDRH6D
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0805
+Add Component: Footprint Not Found 0805
+Added Component: Designator=RT(0603)
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Added Pin To Net: NetName=GND Pin=RT-1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetIC1_1 Pin=RT-2
+Added Net: Name=NetIC1_1
+Added Net: Name=NetIC1_3
+Added Net: Name=NetIC1_4
+Added Net: Name=NetIC1_9
+Added Net: Name=NetR1_1
