@@ -1,16 +1,15 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 14:16:16 On 06/02/2025
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [GSv1_PCB.PcbDoc]
+   Generated File[GSv1_PCB.GTL]
+   Generated File[GSv1_PCB.GBL]
+   Generated File[GSv1_PCB.GM2]
+   Generated File[GSv1_PCB.RUL]
+   Generated File[GSv1_PCB.EXTREP]
+   Generated File[GSv1_PCB.REP]
 
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [GSv1_PCB.PcbDoc]
-   Generated File[GSv1_PCB.TXT]
-   Generated File[GSv1_PCB.LDP]
-   Generated File[GSv1_PCB.DRR]
 
-
-Files Generated   : 3
+Files Generated   : 6
 Documents Printed : 0
 
-Finished Output Generation At 14:16:17 On 06/02/2025
+Finished Output Generation At 17:59:32 On 10/02/2025
