@@ -206,74 +206,38 @@ DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\Design Rule Check - G
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\NC Drill\GSv1_PCB.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\Gerber\GSv1_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\Gerber\GSv1_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\Gerber\GSv1_PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\Gerber\GSv1_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument11]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\NC Drill\GSv1_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\Gerber\GSv1_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\Gerber\GSv1_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\GSv1_PCB.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for TinyGS_Ground_PCB_Project\NC Drill\GSv1_PCB.TXT
 DItemRevisionGUID=
 
